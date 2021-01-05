@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://www.facebook.com/tuong.truongduy/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" alt="bin trương" height="30" width="40" />Bin Trương</a>
   <a target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/733/733570.svg" alt="bintruong97" height="30" width="40" />bintruong97</a>
+  <a href="https://codepen.io/bin-truong" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111296.svg" alt="bin trương" height="30" width="40" />bin trương</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
