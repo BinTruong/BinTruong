@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **tduytuong97@gmail.com**
 
+- ⚡ Fun fact:     I :heart: :dog: :cat: :soccer:
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/tuong.truongduy/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" alt="bin trương" height="30" width="40" />Bin Trương</a>
