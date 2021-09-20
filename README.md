@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently learning at Home
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJs VuseJs NodeJs**
 
-- 👯 I’m currently working on FrontEnd
+- 👯 I’m currently working on FrontEnd && FullStack JS
 
-- 🤝 I’m looking for help with ReactJs
+- 🤝 I’m looking for help with JS
 
 - 📫 How to reach me **tduytuong97@gmail.com**
 
